@@ -1,2 +1,2 @@
-# SQL---bazy-danych
+# SQL-bazy-danych
 SQL - bazy danych
