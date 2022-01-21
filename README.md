@@ -7,3 +7,13 @@ My mySQL practise with database:
 - in Sakila Sample Database https://dev.mysql.com/doc/sakila/en/
 - in Northwind database https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
 - in SCHOOL local Coders Lab database
+
+Include: 
+SELECT (); WHERE (); ORDER BY (); DISTINCT (); AS (); COUNT (); MAX() MIN() SUM() AVG(); GROUP BY(), INNER JOIN (); LEFT JOIN(); RIGHT JOIN ();
+
+CREATE DATABASE (); CREATE TABLE ();
+INSERT INTO ();
+UPDATE (); DELETE ();
+ALTER TABLE ();
+DROPT TABLE ();
+
