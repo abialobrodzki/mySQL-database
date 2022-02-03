@@ -1,4 +1,4 @@
-# SQL database
+# mySQL database
 Effects of my work in MySQL Workbench 8.0 CE & MySQL Server
 Relase: Workbench 8.0.27 x64 // Server 8.0.27 x64
 
@@ -22,4 +22,3 @@ ALTER TABLE ();
 DROPT TABLE ();
 
 UPDATE ()
-
